@@ -1,0 +1,12 @@
+Output:
+Aman
+Riya
+Rahul
+Neha
+Karan
+Priya
+Vikas
+Simran
+Arjun
+Meena
+Total students: 10

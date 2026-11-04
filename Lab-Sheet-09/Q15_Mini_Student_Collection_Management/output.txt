@@ -1,0 +1,19 @@
+Output:
+All students: [103 - Riya, 101 - Aman, 105 - Neha, 102 - Rahul, 104 - Karan]
+Unique IDs (HashSet): [101, 102, 103, 104, 105]
+Sorted IDs (TreeSet): [101, 102, 103, 104, 105]
+Search ID 103: true
+Total students: 5
+After removing ID 105: [103 - Riya, 101 - Aman, 102 - Rahul, 104 - Karan]
+Forward traversal:
+103 - Riya
+101 - Aman
+102 - Rahul
+104 - Karan
+Backward traversal:
+104 - Karan
+102 - Rahul
+101 - Aman
+103 - Riya
+List allows duplicates and keeps insertion order.
+Set stores unique IDs; SortedSet keeps IDs sorted.

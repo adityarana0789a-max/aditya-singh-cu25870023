@@ -1,0 +1,3 @@
+Output:
+Enter course: Java
+Course found

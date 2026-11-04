@@ -1,0 +1,15 @@
+Output:
+ArrayList: [Java, C++, Python]
+LinkedList: [Java, C++, Python]
+ArrayList get(1): C++
+LinkedList get(1): C++
+ArrayList after delete: [Java, Python]
+LinkedList after delete: [Java, Python]
+Sizes: 2, 2
+ArrayList iteration:
+Java
+Python
+LinkedList iteration:
+Java
+Python
+Observation: ArrayList is good for fast index access; LinkedList is useful for frequent insertions/deletions.

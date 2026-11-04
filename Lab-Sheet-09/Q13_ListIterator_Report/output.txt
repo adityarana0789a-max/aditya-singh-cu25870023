@@ -1,0 +1,15 @@
+Output:
+Forward:
+Java
+Python
+DBMS
+OS
+Networking
+Next index: 5
+Backward:
+Networking
+OS
+DBMS
+Python
+Java
+Previous index: -1

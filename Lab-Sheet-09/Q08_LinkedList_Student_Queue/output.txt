@@ -1,0 +1,5 @@
+Output:
+Queue: [Neha, Aman, Riya, Rahul]
+Removed first: Neha
+Removed last: Rahul
+Remaining: [Aman, Riya]

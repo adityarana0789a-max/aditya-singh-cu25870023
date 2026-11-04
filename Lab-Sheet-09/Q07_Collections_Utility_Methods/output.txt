@@ -1,0 +1,6 @@
+Output:
+Sorted: [1, 2, 2, 5, 8, 9]
+Reverse: [9, 8, 5, 2, 2, 1]
+Maximum: 9
+Minimum: 1
+Frequency of 2: 2

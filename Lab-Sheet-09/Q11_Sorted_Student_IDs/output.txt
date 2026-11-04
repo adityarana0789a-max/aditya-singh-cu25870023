@@ -1,0 +1,6 @@
+Output:
+Unique sorted IDs: [102, 104, 105, 106, 108]
+First: 102
+Last: 108
+Higher than 104: 105
+Lower than 104: 102

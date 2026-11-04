@@ -1,0 +1,2 @@
+Output:
+Unique departments: [BCA, CSE, ECE, IT]

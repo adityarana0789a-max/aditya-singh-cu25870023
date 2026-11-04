@@ -1,0 +1,4 @@
+Output:
+First: 78
+Middle: 92
+Last: 88

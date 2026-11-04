@@ -1,0 +1,6 @@
+Output:
+Patients: [Aman, Riya]
+Patient IDs: [P101, P102]
+After removal: [Riya]
+Search Riya: true
+Final records: [Riya] [P102]
