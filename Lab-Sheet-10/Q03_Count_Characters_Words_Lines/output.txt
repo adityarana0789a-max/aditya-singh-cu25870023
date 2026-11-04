@@ -1,0 +1,5 @@
+Sample Output
+-------------
+Lines: 2
+Words: 5
+Characters: 22

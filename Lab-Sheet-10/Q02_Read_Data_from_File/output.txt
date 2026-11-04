@@ -1,0 +1,6 @@
+Sample Output
+-------------
+Student Name: Rahul
+Roll Number: 101
+Course: BCA
+Semester: 2

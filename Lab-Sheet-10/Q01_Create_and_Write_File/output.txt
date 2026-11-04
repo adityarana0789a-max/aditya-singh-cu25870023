@@ -1,0 +1,3 @@
+Sample Output
+-------------
+File created and data written successfully.

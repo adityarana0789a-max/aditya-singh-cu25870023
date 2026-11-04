@@ -1,0 +1,6 @@
+Sample Output
+-------------
+Vowels: 3
+Consonants: 5
+Digits: 2
+Spaces: 2

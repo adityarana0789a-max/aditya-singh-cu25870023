@@ -1,0 +1,4 @@
+Sample Output
+-------------
+Enter Employee ID to search: E101
+Employee Record: E101, Rahul, IT, 30000

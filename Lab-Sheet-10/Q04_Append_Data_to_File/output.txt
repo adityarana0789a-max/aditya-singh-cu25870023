@@ -1,0 +1,6 @@
+Sample Output
+-------------
+Enter student name: Aman
+Enter roll number: 102
+Enter marks: 85
+Student record appended successfully.

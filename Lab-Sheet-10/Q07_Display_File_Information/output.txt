@@ -1,0 +1,11 @@
+Sample Output
+-------------
+Enter file name: sample.txt
+Exists: true
+Name: sample.txt
+Absolute path: (your computer path)/sample.txt
+Size: 12 bytes
+Is file: true
+Is directory: false
+Readable: true
+Writable: true

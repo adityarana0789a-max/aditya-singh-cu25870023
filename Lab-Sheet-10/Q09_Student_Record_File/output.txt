@@ -1,0 +1,10 @@
+Sample Output
+-------------
+Sample input: 1 / Asha / BCA / 80; 2 / Ravi / BCA / 75; 3 / Neha / BCA / 90; 4 / Aman / BCA / 85; 5 / Kiran / BCA / 88
+Output after entering all five records:
+All Student Records:
+1, Asha, BCA, 80
+2, Ravi, BCA, 75
+3, Neha, BCA, 90
+4, Aman, BCA, 85
+5, Kiran, BCA, 88

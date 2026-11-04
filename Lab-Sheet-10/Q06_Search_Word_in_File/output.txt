@@ -1,0 +1,4 @@
+Sample Output
+-------------
+Enter word to search: Java
+Word found 2 time(s).
