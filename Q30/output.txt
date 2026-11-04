@@ -1,0 +1,2 @@
+Sample Output:
+Result: 3.0

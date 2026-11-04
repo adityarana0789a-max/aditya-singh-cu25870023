@@ -1,0 +1,2 @@
+Sample Output:
+Profit: 150.0

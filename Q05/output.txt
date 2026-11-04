@@ -1,0 +1,2 @@
+Sample Output:
+Float value: 12.75\nInteger value: 12

@@ -1,0 +1,2 @@
+Sample Output:
+Number of digits: 5

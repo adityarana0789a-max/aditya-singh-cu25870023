@@ -1,0 +1,2 @@
+Sample Output:
+Income: 650000.0\nTax: 42500.0

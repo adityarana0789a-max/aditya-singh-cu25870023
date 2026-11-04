@@ -1,0 +1,2 @@
+Sample Output:
+Name: Aman\nAge: 20\nCollege: ABC College

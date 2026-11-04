@@ -1,0 +1,2 @@
+Sample Output:
+48.0

@@ -1,0 +1,2 @@
+Sample Output:
+28 is perfect

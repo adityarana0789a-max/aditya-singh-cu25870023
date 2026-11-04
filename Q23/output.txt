@@ -1,0 +1,2 @@
+Sample Output:
+Fahrenheit: 98.6

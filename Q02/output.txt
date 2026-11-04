@@ -1,0 +1,2 @@
+Sample Output:
+Addition: 25\nSubtraction: 15\nMultiplication: 100\nDivision: 4\nRemainder: 0
