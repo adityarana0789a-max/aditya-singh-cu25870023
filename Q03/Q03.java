@@ -1,8 +1,7 @@
-class Q03 {
+public class Q03 {
     public static void main(String[] args) {
-        int[] a = {10, 20, 30, 40, 50};
-        int sum = 0;
-        for (int n : a) sum += n;
-        System.out.println("Sum = " + sum);
+        int n = 14;
+        if (n % 2 == 0) System.out.println(n + " is even");
+        else System.out.println(n + " is odd");
     }
 }

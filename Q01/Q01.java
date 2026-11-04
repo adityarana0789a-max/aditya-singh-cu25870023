@@ -1,9 +1,10 @@
-import java.util.Scanner;
-class Q01 {
+public class Q01 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int[] a = new int[5];
-        for (int i=0; i<5; i++) a[i] = sc.nextInt();
-        for (int n : a) System.out.print(n + " ");
+        String name = "Aman";
+        int age = 20;
+        String college = "ABC College";
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("College: " + college);
     }
 }

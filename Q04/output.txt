@@ -1,3 +1,2 @@
-Maximum element in an array
-
-Maximum = 89
+Sample Output:
+a == b: false\na != b: true\na > b: false\na < b: true\na >= b: false\na <= b: true

@@ -1,5 +1,2 @@
-Add two matrices
-
-Result:
-6 8
-10 12
+Sample Output:
+2024 is a leap year

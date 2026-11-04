@@ -1,13 +1,9 @@
-import java.util.Scanner;
-class Q07 {
+public class Q07 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int[][] a = new int[3][3];
-        for (int i=0; i<3; i++)
-            for (int j=0; j<3; j++) a[i][j] = sc.nextInt();
-        for (int i=0; i<3; i++) {
-            for (int j=0; j<3; j++) System.out.print(a[i][j] + " ");
-            System.out.println();
-        }
+        int n = 30;
+        if (n % 3 == 0 && n % 5 == 0)
+            System.out.println(n + " is divisible by both 3 and 5");
+        else
+            System.out.println(n + " is not divisible by both 3 and 5");
     }
 }

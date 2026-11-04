@@ -1,5 +1,2 @@
-Check whether matrix is sparse
-
-Zero elements = 7
-Non-zero elements = 2
-Sparse matrix
+Sample Output:
+Result: 3.0

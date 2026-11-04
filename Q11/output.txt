@@ -1,6 +1,2 @@
-Transpose a matrix
-
-Transpose:
-1 4
-2 5
-3 6
+Sample Output:
+Largest: 35

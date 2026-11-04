@@ -1,5 +1,2 @@
-Sum of each row in matrix
-
-Row 1 sum = 6
-Row 2 sum = 15
-Row 3 sum = 24
+Sample Output:
+Total: 223\nPercentage: 74.33333333333333%\nResult: Pass

@@ -1,3 +1,2 @@
-Search in 2-D array and display row and column
-
-Found at row 1, column 1
+Sample Output:
+Number of digits: 5

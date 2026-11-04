@@ -1,10 +1,8 @@
-class Q10 {
+public class Q10 {
     public static void main(String[] args) {
-        int[][] a = {{1,2,3},{4,5,6},{7,8,9}};
-        for (int j=0; j<3; j++) {
-            int sum = 0;
-            for (int i=0; i<3; i++) sum += a[i][j];
-            System.out.println("Column " + (j+1) + " sum = " + sum);
-        }
+        int a = 45, b = 32;
+        if (a > b) System.out.println("Greatest: " + a);
+        else if (b > a) System.out.println("Greatest: " + b);
+        else System.out.println("Both are equal");
     }
 }

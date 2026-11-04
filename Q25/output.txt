@@ -1,4 +1,2 @@
-Sum of main and secondary diagonals
-
-Main diagonal sum = 15
-Secondary diagonal sum = 15
+Sample Output:
+true

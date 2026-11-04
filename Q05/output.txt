@@ -1,4 +1,2 @@
-Count even and odd numbers in array
-
-Even = 3
-Odd = 3
+Sample Output:
+Float value: 12.75\nInteger value: 12

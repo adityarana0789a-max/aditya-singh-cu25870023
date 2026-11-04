@@ -1,10 +1,9 @@
-class Q20 {
+public class Q20 {
     public static void main(String[] args) {
-        int[][] marks={{80,75},{90,85,88},{70,60,65,72}};
-        for(int i=0;i<marks.length;i++) {
-            System.out.print("Student "+(i+1)+": ");
-            for(int m:marks[i]) System.out.print(m+" ");
-            System.out.println();
-        }
+        String gender = "Male";
+        int age = 22;
+        boolean eligible = (gender.equalsIgnoreCase("Male") && age >= 21)
+                        || (gender.equalsIgnoreCase("Female") && age >= 18);
+        System.out.println(eligible ? "Eligible by the given age rule" : "Not eligible by the given age rule");
     }
 }

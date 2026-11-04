@@ -1,3 +1,2 @@
-Search element in 3-D array and display position
-
-Found at layer 1, row 0, column 1
+Sample Output:
+29 is prime

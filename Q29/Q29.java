@@ -1,10 +1,8 @@
-import java.util.Arrays;
-class Q29 {
+public class Q29 {
     public static void main(String[] args) {
-        int[][] a={{5,2,4},{9,1},{8,3,7,6}};
-        for(int[] row:a) {
-            Arrays.sort(row);
-            System.out.println(Arrays.toString(row));
-        }
+        int heightCm = 172;
+        if (heightCm < 150) System.out.println("Short");
+        else if (heightCm <= 180) System.out.println("Average");
+        else System.out.println("Tall");
     }
 }

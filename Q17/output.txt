@@ -1,3 +1,2 @@
-Maximum element in 3-D array
-
-Maximum = 12
+Sample Output:
+121 is palindrome

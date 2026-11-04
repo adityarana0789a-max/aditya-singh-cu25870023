@@ -1,3 +1,2 @@
-Find second largest element
-
-Second largest = 15
+Sample Output:
+Fahrenheit: 98.6

@@ -1,12 +1,11 @@
-class Q16 {
+public class Q16 {
     public static void main(String[] args) {
-        int[][][] a={{{1,-2},{3,-4}},{{-5,6},{0,8}}};
-        int positive=0, negative=0;
-        for(int[][] layer:a) for(int[] row:layer) for(int n:row) {
-            if(n>0) positive++;
-            else if(n<0) negative++;
-        }
-        System.out.println("Positive = "+positive);
-        System.out.println("Negative = "+negative);
+        double income = 650000, tax;
+        if (income <= 250000) tax = 0;
+        else if (income <= 500000) tax = (income - 250000) * 0.05;
+        else if (income <= 1000000) tax = 12500 + (income - 500000) * 0.20;
+        else tax = 112500 + (income - 1000000) * 0.30;
+        System.out.println("Income: " + income);
+        System.out.println("Tax: " + tax);
     }
 }

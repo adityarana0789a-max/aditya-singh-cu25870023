@@ -1,4 +1,2 @@
-Count positive and negative numbers in 3-D array
-
-Positive = 4
-Negative = 3
+Sample Output:
+Income: 650000.0\nTax: 42500.0

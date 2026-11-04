@@ -1,3 +1,2 @@
-Rotate array left by one position
-
-2 3 4 5 1
+Sample Output:
+Valid triangle

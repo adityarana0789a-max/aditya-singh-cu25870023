@@ -1,9 +1,9 @@
-class Q12 {
+public class Q12 {
     public static void main(String[] args) {
-        int[][] a={{1,2},{3,4}}, b={{5,6},{7,8}};
-        for (int i=0; i<2; i++) {
-            for (int j=0; j<2; j++) System.out.print((a[i][j]+b[i][j])+" ");
-            System.out.println();
-        }
+        int year = 2024;
+        if (year % 400 == 0 || (year % 4 == 0 && year % 100 != 0))
+            System.out.println(year + " is a leap year");
+        else
+            System.out.println(year + " is not a leap year");
     }
 }

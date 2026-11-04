@@ -1,4 +1,2 @@
-Display 10 integers in reverse order
-
-Input: 1 2 3 4 5 6 7 8 9 10
-Output: 10 9 8 7 6 5 4 3 2 1
+Sample Output:
+Addition: 25\nSubtraction: 15\nMultiplication: 100\nDivision: 4\nRemainder: 0

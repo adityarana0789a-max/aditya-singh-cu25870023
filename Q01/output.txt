@@ -1,4 +1,2 @@
-Input and display 5 integers using 1-D array
-
-Input: 10 20 30 40 50
-Output: 10 20 30 40 50
+Sample Output:
+Name: Aman\nAge: 20\nCollege: ABC College

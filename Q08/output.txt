@@ -1,3 +1,2 @@
-Sum of all elements in matrix
-
-Sum = 45
+Sample Output:
+e is a vowel

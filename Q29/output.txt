@@ -1,5 +1,2 @@
-Sort each row in jagged array
-
-[2, 4, 5]
-[1, 9]
-[3, 6, 7, 8]
+Sample Output:
+Average

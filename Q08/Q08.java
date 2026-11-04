@@ -1,8 +1,9 @@
-class Q08 {
+public class Q08 {
     public static void main(String[] args) {
-        int[][] a = {{1,2,3},{4,5,6},{7,8,9}};
-        int sum = 0;
-        for (int[] row : a) for (int n : row) sum += n;
-        System.out.println("Sum = " + sum);
+        char ch = 'e';
+        if ("aeiouAEIOU".indexOf(ch) >= 0)
+            System.out.println(ch + " is a vowel");
+        else
+            System.out.println(ch + " is a consonant");
     }
 }

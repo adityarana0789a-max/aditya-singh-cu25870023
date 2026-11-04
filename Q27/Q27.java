@@ -1,9 +1,10 @@
-class Q27 {
+public class Q27 {
     public static void main(String[] args) {
-        int[][] a={{1,2,3},{4,5,6},{7,8,9}};
-        for(int i=0;i<3;i++)
-            for(int j=0;j<3;j++)
-                if(i==0 || i==2 || j==0 || j==2)
-                    System.out.print(a[i][j]+" ");
+        double costPrice = 500, sellingPrice = 650;
+        if (sellingPrice > costPrice)
+            System.out.println("Profit: " + (sellingPrice - costPrice));
+        else if (sellingPrice < costPrice)
+            System.out.println("Loss: " + (costPrice - sellingPrice));
+        else System.out.println("No profit, no loss");
     }
 }

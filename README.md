@@ -1,16 +1,17 @@
-# Java Lab Sheet 03
-BCA201P – Foundations of Java Development
+# Java Practical Lab — Lab Sheet 01
 
-Contains 30 Java programs for 1-D arrays, 2-D arrays, 3-D arrays, jagged arrays, and additional array operations.
+This folder contains 30 standalone Java programs with sample outputs.
 
-Each question folder contains:
-- `Qxx.java` — Java source code
-- `output.txt` — sample output
+## Run a program
+Open a terminal in the question folder and run:
 
-## Run
-Open a question folder in terminal:
 ```bash
 javac Q01.java
 java Q01
 ```
-For programs using `Scanner`, enter the sample input shown in `output.txt`.
+
+Each question has:
+- `Qxx.java` — Java source code
+- `output.txt` — sample output
+
+**Note:** The examples use fixed sample values so they are easy to compile and test. Where the worksheet specifies a particular rule, the program follows that rule. The tax slabs and height categories are illustrative examples because the worksheet's exact slab/category values were not included in the available question summary.

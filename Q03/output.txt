@@ -1,3 +1,2 @@
-Sum of all elements in 1-D array
-
-Sum = 150
+Sample Output:
+14 is even

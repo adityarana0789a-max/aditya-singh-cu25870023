@@ -1,8 +1,2 @@
-Input and display 2x2x2 3-D array
-
-Layer 1
-1 2
-3 4
-Layer 2
-5 6
-7 8
+Sample Output:
+Digit

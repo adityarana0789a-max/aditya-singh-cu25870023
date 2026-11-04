@@ -1,8 +1,12 @@
-class Q15 {
+public class Q15 {
     public static void main(String[] args) {
-        int[][][] a={{{1,2},{3,4}},{{5,6},{7,8}}};
-        int sum=0;
-        for(int[][] layer:a) for(int[] row:layer) for(int n:row) sum+=n;
-        System.out.println("Sum = "+sum);
+        int n = 153, temp = n, sum = 0;
+        while (temp > 0) {
+            int digit = temp % 10;
+            sum += digit * digit * digit;
+            temp /= 10;
+        }
+        if (sum == n) System.out.println(n + " is an Armstrong number");
+        else System.out.println(n + " is not an Armstrong number");
     }
 }
