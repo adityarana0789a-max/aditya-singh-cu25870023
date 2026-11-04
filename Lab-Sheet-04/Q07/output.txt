@@ -1,0 +1,3 @@
+Bank account deposit
+
+Bank =  SBI\nAccount = 12345\nBalance = 1500.0

@@ -1,0 +1,3 @@
+Rectangle area using local variables
+
+Rectangle area = 20.0

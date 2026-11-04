@@ -1,0 +1,3 @@
+Factorial using method
+
+Factorial = 120\nCalls = 1

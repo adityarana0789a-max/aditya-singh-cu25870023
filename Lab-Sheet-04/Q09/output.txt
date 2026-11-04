@@ -1,0 +1,3 @@
+Laptop details
+
+Brand = HP, RAM = 8 GB\nOS = Windows

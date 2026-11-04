@@ -1,0 +1,3 @@
+Reverse a string and count
+
+AVAJ\nReversals = 1

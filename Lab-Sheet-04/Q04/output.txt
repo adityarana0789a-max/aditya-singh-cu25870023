@@ -1,0 +1,3 @@
+Employee details
+
+ABC Ltd\nID = 101, Salary = 25000.0

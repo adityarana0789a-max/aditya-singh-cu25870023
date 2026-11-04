@@ -1,0 +1,3 @@
+Book details
+
+Java Basics by James\nPrice = 450.0, Publisher = Tech Books

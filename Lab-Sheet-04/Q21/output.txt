@@ -1,0 +1,3 @@
+Palindrome number checker and count
+
+Palindrome\nChecks = 1

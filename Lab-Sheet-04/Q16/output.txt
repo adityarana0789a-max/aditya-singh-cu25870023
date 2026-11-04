@@ -1,0 +1,3 @@
+Triangle validity and type
+
+Triangle valid = true\nType = Equilateral

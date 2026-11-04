@@ -1,0 +1,3 @@
+Prime number checker
+
+Prime\nChecks = 1

@@ -1,0 +1,3 @@
+Add and subtract two 2x2 matrices
+
+2x2 Matrix Addition:\n6 8\n10 12\nSubtraction:\n-4 -4\n-4 -4

@@ -1,0 +1,3 @@
+Electricity bill
+
+Total bill = 650.0

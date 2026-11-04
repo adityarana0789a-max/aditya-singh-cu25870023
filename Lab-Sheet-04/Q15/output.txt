@@ -1,0 +1,3 @@
+Simple interest
+
+National Bank\nSimple Interest = 1000.0

@@ -1,0 +1,3 @@
+Car details
+
+Brand = Toyota\nMileage = 18.5\nWheels = 4
