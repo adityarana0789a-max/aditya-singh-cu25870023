@@ -1,12 +1,10 @@
-import java.util.Scanner;
 class Q20 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        String password;
-        do {
-            System.out.print("Enter password: ");
-            password=sc.nextLine();
-        } while(!password.equals("java123"));
-        System.out.println("Access granted");
+        int[][] marks={{80,75},{90,85,88},{70,60,65,72}};
+        for(int i=0;i<marks.length;i++) {
+            System.out.print("Student "+(i+1)+": ");
+            for(int m:marks[i]) System.out.print(m+" ");
+            System.out.println();
+        }
     }
 }

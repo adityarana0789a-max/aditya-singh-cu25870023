@@ -1,6 +1,3 @@
-Prefix and postfix increment counter
+Maximum element in an array
 
-Initial visitors = 5
-Entering visitor (prefix) = 6
-Leaving visitor (postfix) = 6
-Final visitors = 5
+Maximum = 89

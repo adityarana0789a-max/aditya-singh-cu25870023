@@ -1,3 +1,4 @@
-Average marks using 2D array
+Sum of main and secondary diagonals
 
-Average marks = 76.67
+Main diagonal sum = 15
+Secondary diagonal sum = 15

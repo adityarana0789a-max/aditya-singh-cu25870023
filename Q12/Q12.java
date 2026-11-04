@@ -1,11 +1,9 @@
-import java.util.Scanner;
 class Q12 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        int a=sc.nextInt(), b=sc.nextInt(), c=sc.nextInt(), d=sc.nextInt();
-        int min=(a<b?a:b);
-        min=(min<c?min:c);
-        min=(min<d?min:d);
-        System.out.println("Smallest = " + min);
+        int[][] a={{1,2},{3,4}}, b={{5,6},{7,8}};
+        for (int i=0; i<2; i++) {
+            for (int j=0; j<2; j++) System.out.print((a[i][j]+b[i][j])+" ");
+            System.out.println();
+        }
     }
 }

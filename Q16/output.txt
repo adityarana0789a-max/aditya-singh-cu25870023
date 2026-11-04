@@ -1,4 +1,4 @@
-Multiply and divide using shift
+Count positive and negative numbers in 3-D array
 
-12 * 8 = 96
-12 / 4 = 3
+Positive = 4
+Negative = 3

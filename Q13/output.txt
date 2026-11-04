@@ -1,4 +1,6 @@
-Character type using ternary
+Multiply two 3x3 matrices
 
-Input: e
-Vowel
+Result:
+30 24 18
+84 69 54
+138 114 90

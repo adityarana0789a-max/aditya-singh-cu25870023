@@ -1,8 +1,13 @@
+import java.util.Scanner;
 class Q07 {
     public static void main(String[] args) {
-        double[] rain={10,12,8,5,0,15,10};
-        double total=0;
-        for(double day:rain) total+=day;
-        System.out.println("Total rainfall = " + total + " mm");
+        Scanner sc = new Scanner(System.in);
+        int[][] a = new int[3][3];
+        for (int i=0; i<3; i++)
+            for (int j=0; j<3; j++) a[i][j] = sc.nextInt();
+        for (int i=0; i<3; i++) {
+            for (int j=0; j<3; j++) System.out.print(a[i][j] + " ");
+            System.out.println();
+        }
     }
 }

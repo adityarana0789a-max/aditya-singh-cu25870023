@@ -1,4 +1,4 @@
-Negative value using unary operator
+Count even and odd numbers in array
 
-Input: 25
-Negative value = -25
+Even = 3
+Odd = 3

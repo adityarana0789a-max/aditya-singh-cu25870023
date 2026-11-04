@@ -1,13 +1,10 @@
-import java.util.Random;
+import java.util.Arrays;
 class Q29 {
     public static void main(String[] args) {
-        Random random=new Random(1);
-        int n;
-        do {
-            n=random.nextInt(100)+1;
-            System.out.println(n);
-            if(n%7==0 && n%13==0) break;
-        } while(true);
-        System.out.println("Found: "+n);
+        int[][] a={{5,2,4},{9,1},{8,3,7,6}};
+        for(int[] row:a) {
+            Arrays.sort(row);
+            System.out.println(Arrays.toString(row));
+        }
     }
 }

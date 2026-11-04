@@ -1,4 +1,4 @@
-Compound interest
+Display 10 integers in reverse order
 
-Input: 1000 10 2
-Compound Interest = 210.00
+Input: 1 2 3 4 5 6 7 8 9 10
+Output: 10 9 8 7 6 5 4 3 2 1

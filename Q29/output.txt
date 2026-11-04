@@ -1,4 +1,5 @@
-Random numbers until divisible by 7 and 13
+Sort each row in jagged array
 
-Sample output varies because numbers are random.
-The program stops when it generates a number divisible by both 7 and 13 (91).
+[2, 4, 5]
+[1, 9]
+[3, 6, 7, 8]

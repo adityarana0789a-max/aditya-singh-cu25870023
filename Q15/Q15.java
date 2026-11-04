@@ -1,9 +1,8 @@
-import java.util.Scanner;
 class Q15 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt(), count=0, value=n;
-        while(value!=0) { count+=value&1; value>>>=1; }
-        System.out.println("Set bits = " + count);
+        int[][][] a={{{1,2},{3,4}},{{5,6},{7,8}}};
+        int sum=0;
+        for(int[][] layer:a) for(int[] row:layer) for(int n:row) sum+=n;
+        System.out.println("Sum = "+sum);
     }
 }

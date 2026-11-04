@@ -1,4 +1,3 @@
-Distance between two points
+Sum of all elements in 1-D array
 
-Input: 1 2 4 6
-Distance = 5.00
+Sum = 150

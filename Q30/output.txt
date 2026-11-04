@@ -1,8 +1,5 @@
-Mixed power of four, bitwise and loops
+Check whether matrix is sparse
 
-Input: 4
-Power of 4: true
-After toggling 3rd bit: 0
-4 x 1 = 4
-4 x 2 = 8
-Stopped at 48
+Zero elements = 7
+Non-zero elements = 2
+Sparse matrix

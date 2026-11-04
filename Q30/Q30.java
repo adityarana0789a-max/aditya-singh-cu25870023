@@ -1,16 +1,12 @@
-import java.util.Scanner;
 class Q30 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt();
-        boolean powerOfFour=n>0 && (n&(n-1))==0 && (n&0x55555555)!=0;
-        System.out.println("Power of 4: "+powerOfFour);
-        System.out.println("After toggling 3rd bit: "+(n^(1<<2)));
-        for(int i=1;i<=50;i++) {
-            int value=n*i;
-            if(value%48==0) { System.out.println("Stopped at "+value); break; }
-            if(value%6==0) continue;
-            System.out.println(n+" x "+i+" = "+value);
+        int[][] a={{0,0,3},{0,0,0},{4,0,0}};
+        int zero=0, nonzero=0;
+        for(int[] row:a) for(int n:row) {
+            if(n==0) zero++; else nonzero++;
         }
+        System.out.println("Zero elements = "+zero);
+        System.out.println("Non-zero elements = "+nonzero);
+        System.out.println(zero>nonzero?"Sparse matrix":"Not a sparse matrix");
     }
 }
