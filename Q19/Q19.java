@@ -1,13 +1,13 @@
-public class Q19 {
+class Q19 {
     public static void main(String[] args) {
-        double a = 12, b = 4;
-        char op = '*';
-        switch (op) {
-            case '+': System.out.println(a + b); break;
-            case '-': System.out.println(a - b); break;
-            case '*': System.out.println(a * b); break;
-            case '/': System.out.println(b != 0 ? a / b : "Cannot divide by zero"); break;
-            default: System.out.println("Invalid operator");
+        for(int n=1;n<=1000;n++) {
+            int temp=n, sum=0, digits=String.valueOf(n).length();
+            while(temp>0) {
+                int digit=temp%10;
+                sum+=Math.pow(digit,digits);
+                temp/=10;
+            }
+            if(sum==n) System.out.print(n+" ");
         }
     }
 }

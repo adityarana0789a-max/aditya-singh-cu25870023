@@ -1,8 +1,12 @@
-public class Q21 {
+import java.util.Scanner;
+class Q21 {
     public static void main(String[] args) {
-        int a = 60, b = 60, c = 60;
-        if (a > 0 && b > 0 && c > 0 && a + b + c == 180)
-            System.out.println("Valid triangle");
-        else System.out.println("Invalid triangle");
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt(), i=1;
+        System.out.print("Factors: ");
+        do {
+            if(n%i==0) System.out.print(i+" ");
+            i++;
+        } while(i<=n);
     }
 }

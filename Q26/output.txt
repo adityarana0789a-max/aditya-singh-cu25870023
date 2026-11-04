@@ -1,2 +1,4 @@
-Sample Output:
-First and last digits are same
+Weekday or weekend using switch
+
+Input: 7
+Weekend

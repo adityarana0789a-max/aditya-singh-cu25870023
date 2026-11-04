@@ -1,11 +1,10 @@
-public class Q17 {
+import java.util.Scanner;
+class Q17 {
     public static void main(String[] args) {
-        int n = 121, temp = n, reverse = 0;
-        while (temp > 0) {
-            reverse = reverse * 10 + temp % 10;
-            temp /= 10;
-        }
-        if (n == reverse) System.out.println(n + " is palindrome");
-        else System.out.println(n + " is not palindrome");
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        int result=Integer.rotateLeft(n,2);
+        System.out.println("Result = " + result);
+        System.out.println("Binary = " + Integer.toBinaryString(result));
     }
 }

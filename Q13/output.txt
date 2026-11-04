@@ -1,2 +1,4 @@
-Sample Output:
-Negative
+Character type using ternary
+
+Input: e
+Vowel

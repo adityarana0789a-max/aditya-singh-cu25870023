@@ -1,2 +1,4 @@
-Sample Output:
-Name: Aman\nAge: 20\nCollege: ABC College
+Calculate area of triangle using Heron's formula
+
+Input: 3 4 5
+Area = 6.00

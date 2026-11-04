@@ -1,2 +1,4 @@
-Sample Output:
-Addition: 25\nSubtraction: 15\nMultiplication: 100\nDivision: 4\nRemainder: 0
+Compound interest
+
+Input: 1000 10 2
+Compound Interest = 210.00

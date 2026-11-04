@@ -1,8 +1,9 @@
-public class Q14 {
+import java.util.Scanner;
+class Q14 {
     public static void main(String[] args) {
-        char ch = '7';
-        if (Character.isLetter(ch)) System.out.println("Alphabet");
-        else if (Character.isDigit(ch)) System.out.println("Digit");
-        else System.out.println("Special character");
+        Scanner sc=new Scanner(System.in);
+        int a=sc.nextInt(), b=sc.nextInt();
+        a=a^b; b=a^b; a=a^b;
+        System.out.println("After swap: a = "+a+", b = "+b);
     }
 }

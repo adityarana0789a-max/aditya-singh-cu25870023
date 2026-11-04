@@ -1,2 +1,3 @@
-Sample Output:
-true
+Average marks using 2D array
+
+Average marks = 76.67

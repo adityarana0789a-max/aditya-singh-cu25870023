@@ -1,2 +1,4 @@
-Sample Output:
-Character: A\nASCII value: 65
+Reduce number by half using /=
+
+Steps = 7
+Final value = 0.5

@@ -1,7 +1,9 @@
-public class Q23 {
+import java.util.Scanner;
+class Q23 {
     public static void main(String[] args) {
-        double celsius = 37;
-        double fahrenheit = (celsius * 9 / 5) + 32;
-        System.out.println("Fahrenheit: " + fahrenheit);
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt(), temp=n, reverse=0;
+        while(temp>0) { reverse=reverse*10+temp%10; temp/=10; }
+        System.out.println(n==reverse?"Palindrome":"Not palindrome");
     }
 }

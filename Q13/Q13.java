@@ -1,8 +1,10 @@
-public class Q13 {
+import java.util.Scanner;
+class Q13 {
     public static void main(String[] args) {
-        int n = -8;
-        if (n > 0) System.out.println("Positive");
-        else if (n < 0) System.out.println("Negative");
-        else System.out.println("Zero");
+        Scanner sc=new Scanner(System.in);
+        char ch=sc.next().charAt(0);
+        String type=Character.isLetter(ch)?("aeiouAEIOU".indexOf(ch)>=0?"Vowel":"Consonant"):
+                    Character.isDigit(ch)?"Digit":"Special symbol";
+        System.out.println(type);
     }
 }

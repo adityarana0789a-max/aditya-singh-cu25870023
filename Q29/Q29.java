@@ -1,8 +1,13 @@
-public class Q29 {
+import java.util.Random;
+class Q29 {
     public static void main(String[] args) {
-        int heightCm = 172;
-        if (heightCm < 150) System.out.println("Short");
-        else if (heightCm <= 180) System.out.println("Average");
-        else System.out.println("Tall");
+        Random random=new Random(1);
+        int n;
+        do {
+            n=random.nextInt(100)+1;
+            System.out.println(n);
+            if(n%7==0 && n%13==0) break;
+        } while(true);
+        System.out.println("Found: "+n);
     }
 }

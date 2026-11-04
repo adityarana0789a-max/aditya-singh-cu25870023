@@ -1,2 +1,4 @@
-Sample Output:
-e is a vowel
+Validate triangle using angles
+
+Input: 60 60 60
+Valid triangle

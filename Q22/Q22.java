@@ -1,7 +1,9 @@
-public class Q22 {
+import java.util.Scanner;
+class Q22 {
     public static void main(String[] args) {
-        int length = 10, breadth = 10;
-        if (length == breadth) System.out.println("Square");
-        else System.out.println("Rectangle");
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt(), reverse=0;
+        while(n!=0) { reverse=reverse*10+n%10; n/=10; }
+        System.out.println("Reverse = " + reverse);
     }
 }
