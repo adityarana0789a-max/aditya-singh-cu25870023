@@ -1,0 +1,4 @@
+Machine: OfficeJet
+ID: 101
+Printing document
+Scanning document

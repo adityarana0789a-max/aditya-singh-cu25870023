@@ -1,0 +1,12 @@
+ID: 1
+Name: Meena
+Salary: 45000.0
+Teaching: Computer Science
+Teacher conducts research
+ID: 2
+Name: Ravi
+Salary: 40000.0
+ID: 3
+Name: Neha
+Salary: 35000.0
+Managing: Administration

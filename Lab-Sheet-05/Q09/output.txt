@@ -1,0 +1,4 @@
+Vehicle starts
+Car is driving
+Battery is charging
+Vehicle stops

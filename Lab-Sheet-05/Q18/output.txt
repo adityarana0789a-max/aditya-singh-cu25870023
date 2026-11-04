@@ -1,0 +1,3 @@
+Vehicle starts
+Car drives
+Battery charging

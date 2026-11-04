@@ -1,0 +1,5 @@
+Salary accepted
+Invalid salary
+ID: 1
+Name: Riya
+Salary: 45000.0

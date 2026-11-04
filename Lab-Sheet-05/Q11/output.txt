@@ -1,0 +1,6 @@
+Name: Aman
+Course: BCA
+Student is studying
+Name: Meena
+Subject: Java
+Teacher is teaching
