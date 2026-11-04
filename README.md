@@ -1,17 +1,16 @@
-# Java Lab Sheet 02
-
+# Java Lab Sheet 03
 BCA201P – Foundations of Java Development
 
-This repository contains 30 Java programs. Each question has:
-- `Qxx.java` — source code
-- `output.txt` — sample output (some programs use sample input)
+Contains 30 Java programs for 1-D arrays, 2-D arrays, 3-D arrays, jagged arrays, and additional array operations.
 
-## Run a program
-Open the question folder in a terminal and run:
+Each question folder contains:
+- `Qxx.java` — Java source code
+- `output.txt` — sample output
 
+## Run
+Open a question folder in terminal:
 ```bash
 javac Q01.java
 java Q01
 ```
-
-Replace `Q01` with the required question number. Programs that use Scanner expect input from the keyboard.
+For programs using `Scanner`, enter the sample input shown in `output.txt`.

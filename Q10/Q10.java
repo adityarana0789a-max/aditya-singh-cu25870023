@@ -1,10 +1,10 @@
-import java.util.Scanner;
 class Q10 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        int year=sc.nextInt(), low=sc.nextInt(), high=sc.nextInt();
-        boolean leap=(year%400==0)||(year%4==0 && year%100!=0);
-        if(leap && year>=low && year<=high) System.out.println("Leap year within range");
-        else System.out.println("Condition not satisfied");
+        int[][] a = {{1,2,3},{4,5,6},{7,8,9}};
+        for (int j=0; j<3; j++) {
+            int sum = 0;
+            for (int i=0; i<3; i++) sum += a[i][j];
+            System.out.println("Column " + (j+1) + " sum = " + sum);
+        }
     }
 }

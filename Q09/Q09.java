@@ -1,17 +1,10 @@
-import java.util.Scanner;
 class Q09 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        String a=sc.nextLine(), b=sc.nextLine();
-        int i=0, result=0;
-        while(i<a.length() && i<b.length()) {
-            if(a.charAt(i)<b.charAt(i)){ result=-1; break; }
-            if(a.charAt(i)>b.charAt(i)){ result=1; break; }
-            i++;
+        int[][] a = {{1,2,3},{4,5,6},{7,8,9}};
+        for (int i=0; i<a.length; i++) {
+            int sum = 0;
+            for (int n : a[i]) sum += n;
+            System.out.println("Row " + (i+1) + " sum = " + sum);
         }
-        if(result==0) result=Integer.compare(a.length(),b.length());
-        if(result<0) System.out.println(a+" comes before "+b);
-        else if(result>0) System.out.println(a+" comes after "+b);
-        else System.out.println("Both strings are equal");
     }
 }

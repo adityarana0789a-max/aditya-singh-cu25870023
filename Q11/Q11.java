@@ -1,10 +1,9 @@
-import java.util.Scanner;
 class Q11 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        int theory=sc.nextInt(), practical=sc.nextInt(), overall=sc.nextInt();
-        if((theory>=40 && practical>=50) || overall>=50)
-            System.out.println("Pass");
-        else System.out.println("Fail");
+        int[][] a = {{1,2,3},{4,5,6}};
+        for (int j=0; j<3; j++) {
+            for (int i=0; i<2; i++) System.out.print(a[i][j] + " ");
+            System.out.println();
+        }
     }
 }

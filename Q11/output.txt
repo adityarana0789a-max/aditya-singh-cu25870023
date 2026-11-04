@@ -1,4 +1,6 @@
-Student pass using logical operators
+Transpose a matrix
 
-Input: 42 45 48
-Fail
+Transpose:
+1 4
+2 5
+3 6

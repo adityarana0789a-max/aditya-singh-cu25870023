@@ -1,4 +1,3 @@
-Palindrome number using while
+Find second largest element
 
-Input: 1221
-Palindrome
+Second largest = 15

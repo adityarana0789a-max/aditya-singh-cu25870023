@@ -1,5 +1,5 @@
-Compare strings lexicographically
+Sum of each row in matrix
 
-Input: Apple
-Banana
-Apple comes before Banana
+Row 1 sum = 6
+Row 2 sum = 15
+Row 3 sum = 24

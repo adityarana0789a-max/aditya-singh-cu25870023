@@ -1,13 +1,15 @@
-import java.util.Scanner;
 class Q26 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        int day=sc.nextInt();
-        switch(day) {
-            case 1: case 2: case 3: case 4: case 5:
-                System.out.println("Weekday"); break;
-            case 6: case 7: System.out.println("Weekend"); break;
-            default: System.out.println("Invalid day");
+        int[][] a={{1,2,3},{4,5,6},{7,8,9}};
+        System.out.println("Upper triangular:");
+        for(int i=0;i<3;i++) {
+            for(int j=0;j<3;j++) System.out.print(j>=i?a[i][j]+" ":"0 ");
+            System.out.println();
+        }
+        System.out.println("Lower triangular:");
+        for(int i=0;i<3;i++) {
+            for(int j=0;j<3;j++) System.out.print(j<=i?a[i][j]+" ":"0 ");
+            System.out.println();
         }
     }
 }

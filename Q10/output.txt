@@ -1,4 +1,5 @@
-Leap year within range
+Sum of each column in matrix
 
-Input: 2024 2000 2030
-Leap year within range
+Column 1 sum = 12
+Column 2 sum = 15
+Column 3 sum = 18

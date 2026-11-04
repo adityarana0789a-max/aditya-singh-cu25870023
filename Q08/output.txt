@@ -1,4 +1,3 @@
-Validate triangle using angles
+Sum of all elements in matrix
 
-Input: 60 60 60
-Valid triangle
+Sum = 45

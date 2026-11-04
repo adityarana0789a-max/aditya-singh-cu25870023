@@ -1,4 +1,3 @@
-Reduce number by half using /=
+Copy elements from one array to another
 
-Steps = 7
-Final value = 0.5
+Copied array: 5 10 15 20 25

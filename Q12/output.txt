@@ -1,4 +1,5 @@
-Smallest of four using ternary
+Add two matrices
 
-Input: 9 4 7 2
-Smallest = 2
+Result:
+6 8
+10 12
