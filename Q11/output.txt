@@ -1,2 +1,4 @@
-Sample Output:
-Largest: 35
+Student pass using logical operators
+
+Input: 42 45 48
+Fail

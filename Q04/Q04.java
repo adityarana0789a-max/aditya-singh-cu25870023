@@ -1,11 +1,9 @@
-public class Q04 {
+class Q04 {
     public static void main(String[] args) {
-        int a = 10, b = 20;
-        System.out.println("a == b: " + (a == b));
-        System.out.println("a != b: " + (a != b));
-        System.out.println("a > b: " + (a > b));
-        System.out.println("a < b: " + (a < b));
-        System.out.println("a >= b: " + (a >= b));
-        System.out.println("a <= b: " + (a <= b));
+        int visitors=5;
+        System.out.println("Initial visitors = " + visitors);
+        System.out.println("Entering visitor (prefix) = " + (++visitors));
+        System.out.println("Leaving visitor (postfix) = " + (visitors--));
+        System.out.println("Final visitors = " + visitors);
     }
 }

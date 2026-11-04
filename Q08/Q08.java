@@ -1,9 +1,10 @@
-public class Q08 {
+import java.util.Scanner;
+class Q08 {
     public static void main(String[] args) {
-        char ch = 'e';
-        if ("aeiouAEIOU".indexOf(ch) >= 0)
-            System.out.println(ch + " is a vowel");
-        else
-            System.out.println(ch + " is a consonant");
+        Scanner sc=new Scanner(System.in);
+        int a=sc.nextInt(), b=sc.nextInt(), c=sc.nextInt();
+        if(a>0 && b>0 && c>0 && a+b+c==180)
+            System.out.println("Valid triangle");
+        else System.out.println("Invalid triangle");
     }
 }

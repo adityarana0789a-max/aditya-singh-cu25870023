@@ -1,17 +1,17 @@
-# Java Practical Lab — Lab Sheet 01
+# Java Lab Sheet 02
 
-This folder contains 30 standalone Java programs with sample outputs.
+BCA201P – Foundations of Java Development
+
+This repository contains 30 Java programs. Each question has:
+- `Qxx.java` — source code
+- `output.txt` — sample output (some programs use sample input)
 
 ## Run a program
-Open a terminal in the question folder and run:
+Open the question folder in a terminal and run:
 
 ```bash
 javac Q01.java
 java Q01
 ```
 
-Each question has:
-- `Qxx.java` — Java source code
-- `output.txt` — sample output
-
-**Note:** The examples use fixed sample values so they are easy to compile and test. Where the worksheet specifies a particular rule, the program follows that rule. The tax slabs and height categories are illustrative examples because the worksheet's exact slab/category values were not included in the available question summary.
+Replace `Q01` with the required question number. Programs that use Scanner expect input from the keyboard.

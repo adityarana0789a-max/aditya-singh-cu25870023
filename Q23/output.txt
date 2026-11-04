@@ -1,2 +1,4 @@
-Sample Output:
-Fahrenheit: 98.6
+Palindrome number using while
+
+Input: 1221
+Palindrome

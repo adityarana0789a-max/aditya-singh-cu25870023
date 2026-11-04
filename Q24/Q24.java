@@ -1,8 +1,9 @@
-public class Q24 {
+class Q24 {
     public static void main(String[] args) {
-        int n = 28, sum = 0;
-        for (int i = 1; i < n; i++)
-            if (n % i == 0) sum += i;
-        System.out.println(sum == n ? n + " is perfect" : n + " is not perfect");
+        int[] a={12,5,30,8,17};
+        int max=a[0], min=a[0];
+        for(int n:a) { if(n>max) max=n; if(n<min) min=n; }
+        System.out.println("Maximum = "+max);
+        System.out.println("Minimum = "+min);
     }
 }

@@ -1,7 +1,9 @@
-public class Q06 {
+class Q06 {
     public static void main(String[] args) {
-        char ch = 'A';
-        System.out.println("Character: " + ch);
-        System.out.println("ASCII value: " + (int) ch);
+        double n=64;
+        int steps=0;
+        while(n>=1) { n/=2; steps++; }
+        System.out.println("Steps = " + steps);
+        System.out.println("Final value = " + n);
     }
 }

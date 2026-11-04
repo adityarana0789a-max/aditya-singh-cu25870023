@@ -1,2 +1,4 @@
-Sample Output:
-Income: 650000.0\nTax: 42500.0
+Multiply and divide using shift
+
+12 * 8 = 96
+12 / 4 = 3

@@ -1,2 +1,4 @@
-Sample Output:
-Float value: 12.75\nInteger value: 12
+Negative value using unary operator
+
+Input: 25
+Negative value = -25

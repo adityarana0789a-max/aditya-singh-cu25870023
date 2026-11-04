@@ -1,2 +1,4 @@
-Sample Output:
-Digit
+Swap using XOR
+
+Input: 5 9
+After swap: a = 9, b = 5

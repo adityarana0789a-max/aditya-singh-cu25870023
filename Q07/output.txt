@@ -1,2 +1,3 @@
-Sample Output:
-30 is divisible by both 3 and 5
+Total rainfall using +=
+
+Total rainfall = 60.0 mm

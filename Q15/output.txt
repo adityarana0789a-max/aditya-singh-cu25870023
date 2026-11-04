@@ -1,2 +1,4 @@
-Sample Output:
-153 is an Armstrong number
+Count set bits
+
+Input: 13
+Set bits = 3

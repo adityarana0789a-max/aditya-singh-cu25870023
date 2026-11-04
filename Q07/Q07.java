@@ -1,9 +1,8 @@
-public class Q07 {
+class Q07 {
     public static void main(String[] args) {
-        int n = 30;
-        if (n % 3 == 0 && n % 5 == 0)
-            System.out.println(n + " is divisible by both 3 and 5");
-        else
-            System.out.println(n + " is not divisible by both 3 and 5");
+        double[] rain={10,12,8,5,0,15,10};
+        double total=0;
+        for(double day:rain) total+=day;
+        System.out.println("Total rainfall = " + total + " mm");
     }
 }

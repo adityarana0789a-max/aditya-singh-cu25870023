@@ -1,13 +1,8 @@
-public class Q25 {
+class Q25 {
     public static void main(String[] args) {
-        int a = 10, b = 5;
-        char op = '&';
-        boolean x = a > 0, y = b > 0;
-        switch (op) {
-            case '&': System.out.println(x && y); break;
-            case '|': System.out.println(x || y); break;
-            case '!': System.out.println(!x); break;
-            default: System.out.println("Use &, | or !");
-        }
+        int[][] marks={{80,70,90},{60,75,85}};
+        int sum=0,count=0;
+        for(int[] row:marks) for(int m:row) { sum+=m; count++; }
+        System.out.printf("Average marks = %.2f%n",(double)sum/count);
     }
 }

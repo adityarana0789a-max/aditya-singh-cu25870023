@@ -1,11 +1,10 @@
-public class Q11 {
+import java.util.Scanner;
+class Q11 {
     public static void main(String[] args) {
-        int a = 12, b = 35, c = 24, largest;
-        if (a > b) {
-            if (a > c) largest = a; else largest = c;
-        } else {
-            if (b > c) largest = b; else largest = c;
-        }
-        System.out.println("Largest: " + largest);
+        Scanner sc=new Scanner(System.in);
+        int theory=sc.nextInt(), practical=sc.nextInt(), overall=sc.nextInt();
+        if((theory>=40 && practical>=50) || overall>=50)
+            System.out.println("Pass");
+        else System.out.println("Fail");
     }
 }

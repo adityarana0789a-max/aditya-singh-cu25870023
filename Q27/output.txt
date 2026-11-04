@@ -1,2 +1,4 @@
-Sample Output:
-Profit: 150.0
+Grade meaning using switch
+
+Input: A
+Excellent

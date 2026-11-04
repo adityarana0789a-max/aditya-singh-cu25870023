@@ -1,2 +1,5 @@
-Sample Output:
-Eligible by the given age rule
+Password using do while
+
+Enter password: hello
+Enter password: java123
+Access granted
