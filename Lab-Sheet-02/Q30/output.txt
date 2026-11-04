@@ -1,0 +1,8 @@
+Mixed power of four, bitwise and loops
+
+Input: 4
+Power of 4: true
+After toggling 3rd bit: 0
+4 x 1 = 4
+4 x 2 = 8
+Stopped at 48

@@ -1,0 +1,4 @@
+Distance between two points
+
+Input: 1 2 4 6
+Distance = 5.00

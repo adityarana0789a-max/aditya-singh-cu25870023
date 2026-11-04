@@ -1,0 +1,5 @@
+Compare strings lexicographically
+
+Input: Apple
+Banana
+Apple comes before Banana

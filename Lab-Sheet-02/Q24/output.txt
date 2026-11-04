@@ -1,0 +1,4 @@
+Maximum and minimum in array
+
+Maximum = 30
+Minimum = 5

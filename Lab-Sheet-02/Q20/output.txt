@@ -1,0 +1,5 @@
+Password using do while
+
+Enter password: hello
+Enter password: java123
+Access granted

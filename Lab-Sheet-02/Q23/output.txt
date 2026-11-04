@@ -1,0 +1,4 @@
+Palindrome number using while
+
+Input: 1221
+Palindrome

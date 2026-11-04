@@ -1,0 +1,3 @@
+Total rainfall using +=
+
+Total rainfall = 60.0 mm

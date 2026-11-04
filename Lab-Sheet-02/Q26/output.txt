@@ -1,0 +1,4 @@
+Weekday or weekend using switch
+
+Input: 7
+Weekend

@@ -1,0 +1,5 @@
+Rotate integer bits left by two
+
+Input: 1
+Result = 4
+Binary = 100

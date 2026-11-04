@@ -1,0 +1,4 @@
+Smallest of four using ternary
+
+Input: 9 4 7 2
+Smallest = 2

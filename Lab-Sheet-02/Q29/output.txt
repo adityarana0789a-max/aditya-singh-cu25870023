@@ -1,0 +1,4 @@
+Random numbers until divisible by 7 and 13
+
+Sample output varies because numbers are random.
+The program stops when it generates a number divisible by both 7 and 13 (91).

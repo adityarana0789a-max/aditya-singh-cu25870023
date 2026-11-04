@@ -1,0 +1,4 @@
+Negative value using unary operator
+
+Input: 25
+Negative value = -25

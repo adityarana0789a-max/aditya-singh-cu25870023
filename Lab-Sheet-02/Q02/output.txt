@@ -1,0 +1,4 @@
+Compound interest
+
+Input: 1000 10 2
+Compound Interest = 210.00

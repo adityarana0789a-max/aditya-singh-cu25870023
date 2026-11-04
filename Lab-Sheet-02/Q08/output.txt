@@ -1,0 +1,4 @@
+Validate triangle using angles
+
+Input: 60 60 60
+Valid triangle

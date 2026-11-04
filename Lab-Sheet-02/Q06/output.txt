@@ -1,0 +1,4 @@
+Reduce number by half using /=
+
+Steps = 7
+Final value = 0.5

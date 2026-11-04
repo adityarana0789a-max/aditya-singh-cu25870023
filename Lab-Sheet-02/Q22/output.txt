@@ -1,0 +1,4 @@
+Reverse digits using while
+
+Input: 1234
+Reverse = 4321
