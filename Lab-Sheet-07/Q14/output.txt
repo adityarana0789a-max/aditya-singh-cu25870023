@@ -1,0 +1,3 @@
+Thread-1 state: BLOCKED
+Thread-2 state: BLOCKED
+Both threads are BLOCKED: deadlock demonstrated.

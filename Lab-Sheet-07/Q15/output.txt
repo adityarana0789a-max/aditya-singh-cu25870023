@@ -1,0 +1,3 @@
+Thread-1 acquired Lock1 and Lock2
+Thread-2 acquired Lock1 and Lock2
+Program completed without deadlock.

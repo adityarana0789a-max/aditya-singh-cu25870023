@@ -1,0 +1,7 @@
+Produced: 1
+Consumed: 1
+Produced: 2
+Consumed: 2
+...
+Produced: 10
+Consumed: 10

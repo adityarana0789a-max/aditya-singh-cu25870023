@@ -1,0 +1,4 @@
+Before start: false
+After start: true
+Thread is running
+After finish: false

@@ -1,0 +1,6 @@
+High priority: 10
+Low priority: 1
+High priority thread
+Low priority thread
+
+Note: Thread scheduling order is not guaranteed.

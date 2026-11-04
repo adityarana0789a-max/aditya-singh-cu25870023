@@ -1,0 +1,3 @@
+Expected balance: 0
+Actual balance: (may be incorrect; depends on thread scheduling)
+Unsynchronized access can cause a race condition.

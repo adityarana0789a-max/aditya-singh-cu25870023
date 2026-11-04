@@ -1,0 +1,7 @@
+Worker-1 priority=1
+Worker-3 priority=3
+Worker-5 priority=5
+Worker-7 priority=7
+Worker-9 priority=9
+
+Note: This sample starts and joins each thread in sequence. Priority alone does not guarantee execution order.
