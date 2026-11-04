@@ -1,0 +1,2 @@
+Enter marks: 105
+Error: Marks must be between 0 and 100.

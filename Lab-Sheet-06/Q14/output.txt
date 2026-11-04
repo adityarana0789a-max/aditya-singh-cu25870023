@@ -1,0 +1,3 @@
+Enter marks: 35
+FAIL
+Exam evaluation completed.

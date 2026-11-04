@@ -1,0 +1,2 @@
+Enter patient name and age: Riya 150
+Error: Age must be between 0 and 120.

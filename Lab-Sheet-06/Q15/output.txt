@@ -1,0 +1,3 @@
+Enter medicine, available and required quantity: TabletA 20 25
+Error: Insufficient medicine stock.
+Inventory transaction completed.

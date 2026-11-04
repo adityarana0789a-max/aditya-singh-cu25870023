@@ -1,0 +1,3 @@
+Enter balance and withdrawal: 5000 6000
+Error: Insufficient balance.
+Bank transaction completed.
