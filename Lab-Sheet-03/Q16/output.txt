@@ -1,0 +1,4 @@
+Count positive and negative numbers in 3-D array
+
+Positive = 4
+Negative = 3

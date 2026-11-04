@@ -1,0 +1,3 @@
+Sum of all elements in matrix
+
+Sum = 45

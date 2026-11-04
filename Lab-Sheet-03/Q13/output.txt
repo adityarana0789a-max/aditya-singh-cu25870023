@@ -1,0 +1,6 @@
+Multiply two 3x3 matrices
+
+Result:
+30 24 18
+84 69 54
+138 114 90

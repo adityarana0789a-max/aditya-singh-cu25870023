@@ -1,0 +1,4 @@
+Count even and odd numbers in array
+
+Even = 3
+Odd = 3
