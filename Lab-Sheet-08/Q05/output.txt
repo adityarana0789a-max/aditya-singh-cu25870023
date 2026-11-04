@@ -1,0 +1,3 @@
+Product: 101, Price: 99.5
+Product: 102, Price: 150.0
+Product: 103, Price: 75.0

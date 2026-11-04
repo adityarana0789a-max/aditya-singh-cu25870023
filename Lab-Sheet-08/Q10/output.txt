@@ -1,0 +1,4 @@
+Added: [Aman, Riya, Karan, Neha, Raj, Simran]
+get(1): Riya
+Updated: [Aditya, Riya, Neha, Raj, Simran]
+Size: 5

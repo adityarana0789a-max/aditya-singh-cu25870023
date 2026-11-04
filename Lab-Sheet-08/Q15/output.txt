@@ -1,0 +1,9 @@
+All Students:
+101 Aman 85.5
+102 Riya 91.0
+103 Karan 78.0
+104 Neha 88.5
+105 Raj 80.0
+Found: 103 Karan
+Total students: 5
+Type safety: Integer ID, String name, Double marks
