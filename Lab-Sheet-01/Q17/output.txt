@@ -1,0 +1,2 @@
+Sample Output:
+121 is palindrome

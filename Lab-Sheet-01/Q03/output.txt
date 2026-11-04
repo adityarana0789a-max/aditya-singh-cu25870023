@@ -1,0 +1,2 @@
+Sample Output:
+14 is even

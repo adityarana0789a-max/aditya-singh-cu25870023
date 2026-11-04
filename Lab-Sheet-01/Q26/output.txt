@@ -1,0 +1,2 @@
+Sample Output:
+First and last digits are same

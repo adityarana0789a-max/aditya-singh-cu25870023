@@ -1,0 +1,2 @@
+Sample Output:
+Eligible by the given age rule
