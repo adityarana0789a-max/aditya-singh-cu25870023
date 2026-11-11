@@ -1,5 +1,0 @@
-Sum of each column in matrix
-
-Column 1 sum = 12
-Column 2 sum = 15
-Column 3 sum = 18
