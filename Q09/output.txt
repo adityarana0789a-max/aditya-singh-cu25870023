@@ -1,5 +1,0 @@
-Sum of each row in matrix
-
-Row 1 sum = 6
-Row 2 sum = 15
-Row 3 sum = 24
