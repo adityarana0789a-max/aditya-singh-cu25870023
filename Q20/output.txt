@@ -1,5 +1,0 @@
-Store marks for students with different subject counts
-
-Student 1: 80 75
-Student 2: 90 85 88
-Student 3: 70 60 65 72
