@@ -1,3 +1,0 @@
-Find second largest element
-
-Second largest = 15
