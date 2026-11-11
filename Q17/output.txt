@@ -1,3 +1,0 @@
-Maximum element in 3-D array
-
-Maximum = 12
