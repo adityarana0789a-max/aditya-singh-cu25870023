@@ -1,3 +1,0 @@
-Maximum element in an array
-
-Maximum = 89
