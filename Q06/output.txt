@@ -1,3 +1,0 @@
-Copy elements from one array to another
-
-Copied array: 5 10 15 20 25
